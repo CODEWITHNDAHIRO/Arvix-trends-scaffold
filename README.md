@@ -49,8 +49,8 @@ data/
 
 ## Status
 - [x] Stage 1: Project setup
-- [ ] Stage 2: Data acquisition & EDA
-- [ ] Stage 3: Preprocessing
+- [x] Stage 2: Data acquisition & EDA
+- [x] Stage 3: Preprocessing
 - [ ] Stage 4: Feature engineering
 - [ ] Stage 5: Dimensionality reduction
 - [ ] Stage 6: Clustering
