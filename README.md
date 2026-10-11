@@ -51,9 +51,9 @@ data/
 - [x] Stage 1: Project setup
 - [x] Stage 2: Data acquisition & EDA
 - [x] Stage 3: Preprocessing
-- [ ] Stage 4: Feature engineering
-- [ ] Stage 5: Dimensionality reduction
-- [ ] Stage 6: Clustering
-- [ ] Stage 7: Cluster interpretation
-- [ ] Stage 8: Report & polish
+- [x] Stage 4: Feature engineering
+- [x] Stage 5: Dimensionality reduction
+- [x] Stage 6: Clustering
+- [x] Stage 7: Cluster interpretation
+- [x] Stage 8: Report & polish
 # Arvix-trends-scaffold
